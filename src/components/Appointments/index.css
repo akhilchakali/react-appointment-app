@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.main {
+  background-image: linear-gradient(to bottom, #fbc7d4, #9796f0);
+  padding: 20px;
+}
+.inner {
+  padding: 20px;
+  display: flex;
+}
+.tot {
+  background-color: white;
+  border-radius: 10px;
+  padding: 10px;
+}
+.app {
+  display: flex;
+  justify-content: space-between;
+}
+.stared {
+  height: 20px;
+  width: 100px;
+  background-color: transparent;
+  border-radius: 10px;
+  border-width: 2px;
+  border-style: solid;
+}
+.list {
+  display: flex;
+  flex-wrap: wrap;
+}
